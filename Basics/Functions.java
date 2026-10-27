@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class Functions {
     public static void printMyName(String name){ //function declare

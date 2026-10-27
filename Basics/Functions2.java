@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class Functions2 {
     public static void printFactorial(int n){

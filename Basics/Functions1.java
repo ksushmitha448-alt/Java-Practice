@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class Functions1 {
     public static int CaluculateSum(int a, int b){

@@ -1,3 +1,4 @@
+package DataStructures;
 import java.util.Scanner;
 
 public class Arrays1 {
